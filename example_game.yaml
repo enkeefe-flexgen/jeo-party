@@ -1,0 +1,155 @@
+name: Example Game
+first_round: 
+    - name: Category 1
+      questions:
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+    - name: Category 2
+      questions:
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+    - name: Category 3
+      questions:
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+    - name: Category 4
+      questions:
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+    - name: Category 5
+      questions:
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+            is_daily_double: true
+    - name: Category 6
+      questions:
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+second_round:
+    - name: Category 1
+      questions:
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+    - name: Category 2
+      questions:
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+    - name: Category 3
+      questions:
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+            is_daily_double: true
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+    - name: Category 4
+      questions:
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+    - name: Category 5
+      questions:
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+            is_daily_double: true
+    - name: Category 6
+      questions:
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+          - question: "Test Question?" 
+            answer: "What is ..."
+final_jeopardy:
+    - name: Final Category
+      questions:
+          - question: "Test Final Question?"
+            answer: "What is ...?"
