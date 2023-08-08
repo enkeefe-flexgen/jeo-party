@@ -40,8 +40,8 @@ __Hosts__
 - Can add time and point handicaps to players at the beginning of the game
 
 ## Milestones
-- Class structure finalized
-- Downloadable file structure finalized
+- ~~Class structure finalized~~
+- ~~Downloadable file structure finalized~~
   
 __Creation__
 - Code diagramed

@@ -1,4 +1,3 @@
-name: Example Game
 first_round: 
     - name: Category 1
       questions:
